@@ -1,0 +1,15 @@
+.bg-myinfo{
+  background-color: #1abc9c;
+}
+
+.h-10{
+  height: 7px;
+}
+
+.img-hover:hover .hover {
+  opacity: 1;
+  transition: opacity 0.1s ease;
+}
+.hover {
+  transition: opacity 0.1s ease;
+}
