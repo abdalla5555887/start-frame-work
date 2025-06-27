@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Form } from '@angular/forms';
 
 @Component({
   selector: 'app-conect',
@@ -7,5 +8,9 @@ import { Component } from '@angular/core';
   styleUrl: './conect.css'
 })
 export class Conect {
-
+  onSubmit() {
+  }
 }
+
+
+

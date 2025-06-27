@@ -13,3 +13,10 @@
 .hover {
   transition: opacity 0.1s ease;
 }
+
+.top-101{
+  top: 10%;
+  bottom: 10% ;
+  left: 10%;
+  right: 10%;
+}
